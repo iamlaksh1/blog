@@ -1,22 +1,26 @@
 ---
 title: "About me"
 layout: "page"
-url: "/longer-bio/"
+url: "/bio/"
 menu: "main"
 weight: 1
 ---
 
-Martin is a member the [Urban and Regional Laboratory](http://urrlab.cz) at the Charles University in Prague, a fellow in the [Geographic Data Science Lab](http://geographicdatascience.com) at the University of Liverpool and a former member of the [Urban Design Studies Unit](http://udsu-strath.com) at the University of Strathclyde. He has a PhD in Architecture from the University of Strathclyde in Glasgow, where he focused on urban morphology and quantitative aspects characterisation of urban form. He holds degrees in Urban Design (University of Strathclyde, 2017) and Architecture and Urbanism (Czech Technical University in Prague, 2015).
+Lakshmanan is a Software Engineer with focus on Geographical Information System (GIS). 
 
-While not doing the research, he writes open source software, promotes open science and helps others with their data as a freelancer.
+He is passionate about location technologies, spatial data and cloud computing.  Experienced in cloud-native solution development using python, Javascript and AWS. His career has seen him transition from a researcher to a programmer and eventually rise to the role of a principal consultant.
 
-His research interest lies in urban morphology and geographic data science focusing on quantitative analysis and classification of urban form, remote sensing and AI, bringing the architectural aspects of the description of cities to geography and data science.
+Most of his past experience is with Oil and Gas industry, where he led enterprise-level Geospatial platforms and cloud-based solutions for diverse clients.  Proficient with Esri ArcGIS Platform, Geoserver and Mapbox product suites along with open-source GIS tools and solutions.
 
-Martin an author or a maintainer of a range of open scientific software. He developed [`momepy`](http://docs.momepy.org), the open source urban morphology measuring toolkit for Python providing a wide range of tools for morphometric analysis. Since 2019, Martin is a member of the development team of [`GeoPandas`](http://geopandas.org), the open source Python package for geographic data. In 2020, he joined the development team of [`PySAL`](https://pysal.org), the Python library for spatial analysis. On top of that, he regularly contributes to other open source projects and develops his own packages like [`Clustergram`](http://clustergram.readthedocs.io) for visualisation of cluster analysis or [`Xvec`](https://xvec.readthedocs.io) for vector data cubes handling.
+He holds a Master's degree in Urban Engineering, specializing in Traffic and Transportation Engineering from India. His educational background also includes a Bachelor's degree in Civil Engineering.
 
-[martin@martinfleischmann.net](mailto:martin@martinfleischmann.net)
+Beyond the technical landscape, Lakshmanan finds fulfillment in spending quality time with his family, engaging in tennis matches, contributing through volunteer teaching, and immersing himself in the world of books."
+
+
+
+[Click to Connect](mailto:laksh.gisprog@gmail.com)
 <br>
-[@martinfleis](https://twitter.com/martinfleis)
+[@iamlaksh1](https://twitter.com/iamlaksh1)
 <br>
 <br>
-[Photo](../posts/images/2019_des_sq-scaled.png)
+[See me](../posts/images/lv_homepage.png)

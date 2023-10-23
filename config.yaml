@@ -1,6 +1,6 @@
-baseURL: "http://martinfleischmann.net/"
+baseURL: "http://cropsnleaves.net/"
 languageCode: en-us
-title: Martin Fleischmann
+title: Lakshmanan Venkatesan
 theme: PaperMod
 googleAnalytics: G-68NX9FKNLJ
 
@@ -19,40 +19,26 @@ params:
 
   homeInfoParams:
     FirstParagraph: >
-      I am a researcher in **urban morphology** and geographic data
-      science focusing on quantitative analysis and classification of cities,
-      remote sensing, and bits of AI. While not doing the research, I write open
-      source software, promote open science and help others with their data.
-    SecondParagraph: >
-      I am an author or a maintainer of a range of open scientific software,
-      including [GeoPandas](https://geopandas.org), the open source Python
-      package for geographic data handling, [momepy](http://docs.momepy.org), the urban
-      morphology measuring toolkit for Python, [Xvec](https://xvec.readthedocs.io), the
-      tool for vector data cubes, and [PySAL](https://pysal.org), the Python library for spatial
-      analysis.
-    Title: Martin Fleischmann
-    Photo: posts/images/2019_des_sq-2048x2048.png
-
+      Howdy! I am Lakshmanan, Software Engineer with focus on location techologies and cloud computing.
+      I work on digital phenotyping involves the use of advanced technologies, such as remote sensing, computer vision, and machine learning.
+       
+    Title: Lakshmanan Venkatesan    
   socialIcons:
     - name: email
-      url: "mailto:martin@martinfleischmann.net"
+      url: "mailto:laksh.gisprog@gmail.com"
     - name: github
-      url: "https://github.com/martinfleis"
+      url: "https://github.com/iamlaksh1"
     - name: twitter
-      url: "https://twitter.com/martinfleis"
-    - name: mastodon
-      url: "https://fosstodon.org/@martinfleis"
+      url: "https://twitter.com/iamlaksh1"
+
+
 
 menu:
   main:
     - name: Posts
       pageRef: /posts/
-      weight: 2
-    - identifier: CV
-      name: CV
-      url: "https://github.com/martinfleis/cv/raw/main/cv-martinfleis.pdf"
-      weight: 4
+      weight: 2 
     - identifier: GitHub
       name: GitHub
-      url: "https://github.com/martinfleis"
-      weight: 5
+      url: "https://github.com/iamlaksh1"
+      weight: 3

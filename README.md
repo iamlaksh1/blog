@@ -1,3 +1,3 @@
-# martinfleischmann.net
+# cropsnleaves.net
 
-Personal site running at martinfleischmann.net using Hugo.
+Personal site running at cropsnleaves.net using Hugo.
